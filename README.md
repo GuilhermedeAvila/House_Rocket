@@ -39,6 +39,7 @@ A House Rocket enfrenta alguns problemas, eles tem um grande conjunto de dados m
 | sqft_lot15 | Área do terreno dos 15 vizinhos mais próximos |
 
 Dataset from Kaggle
+
 [![kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/harlfoxem/housesalesprediction)
 
 ### 1.3 Solução
