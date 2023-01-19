@@ -46,14 +46,17 @@ Dataset from Kaggle
 
 **1.3.1 Aplicação para analises:** Uma aplicação no StreamlitCloud. Um dashboard interativo, onde se e possível fazer suas próprias análises.
 
-<img src= "imagens/dash_streamlit.jpg"  width="600">
-&nbsp;
+![alt_text](https://github.com/GuilhermedeAvila/House_Rocket/blob/main/imagens/dash_streamlit.JPG)
+
+![alt_text](https://github.com/GuilhermedeAvila/House_Rocket/blob/main/imagens/dash_streamlit2.JPG)
+
 
 <img src= "imagens/dash_streamlit2.jpg"  width="600">
 
 &nbsp;
 
 House Rocket APP
+
 [![House Rocket App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://guilhermeavila-houserocket.streamlit.app/)
 
 **1.3.2 Insights:** Os insights gerados pela visualização de dados, estão na imagem abaixo. Ou para uma melhor visualizacao recomendo ver os insights no arquivo do jupyter notebook.
