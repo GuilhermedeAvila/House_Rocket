@@ -51,10 +51,6 @@ Dataset from Kaggle
 ![alt_text](https://github.com/GuilhermedeAvila/House_Rocket/blob/main/imagens/dash_streamlit2.JPG)
 
 
-<img src= "imagens/dash_streamlit2.jpg"  width="600">
-
-&nbsp;
-
 House Rocket APP
 
 [![House Rocket App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://guilhermeavila-houserocket.streamlit.app/)
